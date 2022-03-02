@@ -2,9 +2,9 @@
 <p>Para realização do teste prático para desenvolvedores Front-End, as seguintes tecnologias foram utilizadas:
 
 <ul>
-    <li>Framwork <strong>*REACT*</strong> na criação das telas de login e comment box;</li>
+    <li>Framework <strong>*REACT*</strong> na criação das telas de login e comment box;</li>
     <li>Foi utilizada uma FakerApi para realização de testes;</li>
-    <li>Projeto foi eloborado com <strong>HTML5, CSS3 e JAVASCRIPT</strong>;</li>
+    <li>Projeto foi elaborado com <strong>HTML5, CSS3 e JAVASCRIPT</strong>;</li>
 </ul>
 
 <h2>Como rodar localmente, abrir o terminal e utilizar os comandos a seguir:</h2>
@@ -18,11 +18,11 @@
 <li>npm start</li>
 
 
-Após a inicialização do npm, sera aberto um link no browser
+Após a inicialização do npm, será aberto um link no browser
 
 <li>http://localhost:3000/</li>
 
-Ao ser direcionado para a tela de login, será necessario utilizar um <strong>usuário válido</strong> e uma <strong>senha válida</strong>
+Ao ser direcionado para a tela de login, será necessário utilizar um <strong>usuário válido</strong> e uma <strong>senha válida</strong>
 
 <p>Requisitos para efetuar login</p>
 
@@ -34,7 +34,7 @@ Ao ser direcionado para a tela de login, será necessario utilizar um <strong>us
 
 <li>Clique no botão de login - Aguarde a conclusão do login</li>
 
-Caso o usuário não seja cadastrado no sistemas, deverá realizar o<strong>cadastro</strong>.
+Caso o usuário não seja cadastrado no sistema, deverá realizar o<strong>cadastro</strong>.
 
 <p>Requisitos para cadastro</p>
 
